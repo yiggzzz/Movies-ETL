@@ -7,7 +7,7 @@
 Raw data exists in multiple places and forms. In order to perform any kind of data analysis, this data needs to be cleaned and structured. Data pipeline process **ETL – Extract, Transform, and Load** is a core concept in data engineering, ensuring that data is consistent, maintains its integrity, and nontheless strives for automatization of data wrangling. Without a consistent and robust data structure, it’s nearly impossible to perform any meaningful analysis. 
 
 <p align="center">  
-<img src="ETL.PNG" width="45%" height="45%">
+<img src="ETL.png" width="45%" height="45%">
 </p>
 
 <p align="center">  
